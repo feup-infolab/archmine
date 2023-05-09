@@ -1,0 +1,6 @@
+classification,thresh,maxValue,type,edit_distance,bag_of_words,exec_time
+letters,110,4,3,207.19,57.86,13066.77
+process_covers,33,10,3,87.13,0.67,1625.34
+theatre_covers,240,3,4,183.5,8.57,4470.73
+unstructured_reports,224,42,4,110.0,26.45,14361.6
+structured_reports,82,221,3,163.34,38.71,187744.45

@@ -1,0 +1,6 @@
+classification,ksize,edit_distance,bag_of_words,exec_time
+theatre_covers,3,199.23,6.17,1767.59
+unstructured_reports,3,155.86,21.06,2519.35
+process_covers,3,76.87,14.03,439.73
+letters,3,474.8,27.58,127137.32
+structured_reports,5,424.87,10.37,147508.08

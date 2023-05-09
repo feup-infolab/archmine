@@ -1,0 +1,2 @@
+classification,kernel,iterations,borderType,edit_distance,bag_of_words,exec_time
+global,32,8,2,578.34,0.01,14111.96

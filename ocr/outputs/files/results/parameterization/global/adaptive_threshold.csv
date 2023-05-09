@@ -1,0 +1,2 @@
+classification,maxValue,adaptiveMethod,thresholdType,blockSize,c,edit_distance,bag_of_words,exec_time
+global,217,1,0,33,25,161.94,35.2,206902.57

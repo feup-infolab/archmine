@@ -1,0 +1,6 @@
+classification,maxValue,type,edit_distance,bag_of_words,exec_time
+theatre_covers,174,3,216.87,5.33,4082.46
+unstructured_reports,238,0,96.94,23.51,17255.11
+process_covers,248,2,111.03,12.2,6255.09
+letters,74,3,298.58,43.32,72486.0
+structured_reports,220,2,204.88,34.12,175577.07

@@ -1,0 +1,6 @@
+classification,maxValue,adaptiveMethod,thresholdType,blockSize,c,edit_distance,bag_of_words,exec_time
+structured_reports,13,0,0,43,43,166.05,37.41,7348.38
+letters,24,0,0,39,30,198.84,57.1,22188.15
+theatre_covers,152,1,1,57,18,159.87,9.33,7918.52
+unstructured_reports,32,0,0,51,32,81.45,26.55,53961.38
+process_covers,72,0,0,65,29,99.57,13.23,10327.67

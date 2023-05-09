@@ -1,0 +1,6 @@
+classification,kernel,iterations,borderType,edit_distance,bag_of_words,exec_time
+theatre_covers,1,2,3,183.5,8.5,3668.87
+unstructured_reports,2,1,1,105.47,26.24,7788.25
+process_covers,1,1,2,95.8,14.43,3330.29
+structured_reports,1,5,1,160.46,39.07,34837.26
+letters,1,7,2,222.49,57.89,23532.46

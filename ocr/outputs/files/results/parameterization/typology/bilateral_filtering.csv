@@ -1,0 +1,6 @@
+classification,d,sigmaColor,sigmaSpace,edit_distance,bag_of_words,exec_time
+process_covers,2,85,52,74.5,15.53,20317.61
+theatre_covers,1,6,191,182.23,8.83,5962.06
+unstructured_reports,2,18,253,106.49,26.8,31682.63
+structured_reports,2,36,100,160.62,39.17,77172.04
+letters,4,4,31,212.22,58.53,61783.29
